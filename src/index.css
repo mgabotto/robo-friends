@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+ .perro img {
+   width: 80%;
+   border: solid 6px black;
+   margin: 0 auto;
+ }
